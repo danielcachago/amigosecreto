@@ -1,6 +1,3 @@
-# amigosecreto
-Challenge Amigo Secreto Alura Latam
-
 Amigo Secreto - Proyecto de Lógica de Programación
 
 Este proyecto es una aplicación web simple que permite a los usuarios organizar un "Amigo Secreto". 
